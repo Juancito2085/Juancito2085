@@ -8,13 +8,13 @@
 
 
 - ⚡ Ingeniero eléctrico.
-- 🔭 Acutalmente trabajo de manera independiente y continuo mi formación como Data Engineer y Data Scientist
+- 🔭 Acutalmente trabajo de manera independiente y continuo mi formación como Data Engineer y Data Scientist.
 - 🌱 Actualmente estoy aprendiendo ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white), ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-d9e5e4?style=flat-square&logo=ApacheAirflow&logoColor=black), ![Snowflake](https://img.shields.io/badge/-Snowflake-A0E3F6?style=flat-square&logo=Snowflake&logoColor=white).
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/Juancito2085](https://github.com/Juancito2085)
-- 📝 Me fascina resolver todo tipo de problemas.
+- 📝 Me fascina resolver problemas.
 - 📫 Me podes contactar **jcbrunello@hotmail.com**
 
-### 🛠 Tech Stack
+### 🛠 Stack Tecnológico
 
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@
 
 
 
-### 💬 Contact Me
+### 💬 Contactame
 
 [![Gmail](https://img.shields.io/badge/-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jcbrunello1985@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-brunello-2a3436212/)
